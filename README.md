@@ -13,4 +13,5 @@ EU_Countries (State ID, State Name, Date), Year (Year ID, Year)
 Economy (State ID, Year ID, Real GDP PPP, Real GDP per Capita, Exports, Imports, Trade Balance) 
 
 
-Source: The World Factbook 2024. Washington, DC: Central Intelligence Agency, 2024.
+# Source:
+The World Factbook 2024. Washington, DC: Central Intelligence Agency, 2024.
